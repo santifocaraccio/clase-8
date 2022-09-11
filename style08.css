@@ -1,0 +1,39 @@
+    #Texto1{
+    width:80%;
+    float:left;
+    font-family:Verdana;
+    font: size 10px;
+    text-align:justify;
+    }
+
+   #p_texto1{
+    text-align:center;
+    margin-bottom:2em;
+    font-family:Verdana;
+    }
+
+   #imagen1 {
+    width:20%;
+    float: right;
+    }
+   
+   #separacion{
+    clear: both;
+    }
+
+   #texto2{
+    width:80%;
+    float:left;
+    font-family:Verdana;
+    font: size 10px;
+    text-align:justify;
+    }
+
+   #p_texto2{
+    text-align: center;
+    }
+
+   #imagen2{
+    width:25%;
+    float:left;
+    }
